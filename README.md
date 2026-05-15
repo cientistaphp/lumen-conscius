@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20192858.svg)](https://doi.org/10.5281/zenodo.20192858)
+
+**Cite as:** Pfitzner, P. H. (2026). Lumen Conscius: A Computational Architecture for Affective Mapping and Information Integration. Zenodo. https://doi.org/10.5281/zenodo.20192858
+
 # Lumen Conscius (Experimental Prototype)
 
 This repository contains a minimal reproducible implementation of the **Lumen Conscius** architecture, a computational model that explores the relationship between affective dynamics and an integration proxy (Φ̂).
